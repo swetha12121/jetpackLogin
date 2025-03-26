@@ -21,8 +21,8 @@ import androidx.navigation.compose.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.input.TextFieldValue
-import androidx.compose.material3.icons.Icons
-import androidx.compose.material3.icons.filled.Person
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Person
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.foundation.clickable
 import com.example.login.ui.theme.LoginTheme
