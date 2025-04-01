@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046325868116",
+    "project_id": "login-de537",
+    "storage_bucket": "login-de537.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046325868116:android:feffee88b62e19b4125fc1",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_SRHNEeczjYgv1R3TgclKz7kOEwQH5Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
